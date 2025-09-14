@@ -49,7 +49,6 @@ With a focus on **JavaScript, Java, and modern frameworks**, I enjoy building ev
 
 ![Jubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsjubair111&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shamsjubair111&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsjubair111&layout=compact&theme=radical)  
 
 ![Jubair's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamsjubair111&theme=react-dark)  
 
